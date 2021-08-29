@@ -1,0 +1,20 @@
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.Properties.Resources.resources
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.csproj.GenerateResource.Cache
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.csproj.CoreCompileInputs.cache
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\bin\Debug\Pacman_SenLi.exe.config
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\bin\Debug\Pacman_SenLi.exe
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\bin\Debug\Pacman_SenLi.pdb
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.exe
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.pdb
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.Form1.resources
+H:\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.csprojAssemblyReference.cache
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\bin\Debug\Pacman_SenLi.exe.config
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\bin\Debug\Pacman_SenLi.exe
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\bin\Debug\Pacman_SenLi.pdb
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.csprojAssemblyReference.cache
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.Form1.resources
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.Properties.Resources.resources
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.csproj.GenerateResource.cache
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.csproj.CoreCompileInputs.cache
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.exe
+E:\Language and Year 1\programming 2\lis19\PacmanAssignment\Pacman_SenLi\Pacman_SenLi\Pacman_SenLi\obj\Debug\Pacman_SenLi.pdb
